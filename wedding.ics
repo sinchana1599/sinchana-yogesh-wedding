@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sinchana and Yogesh//Wedding//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:sinchana-yogesh-20261210T110200
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Asia/Kolkata:20261210T110200
+DTEND;TZID=Asia/Kolkata:20261210T130000
+SUMMARY:Sinchana Weds Yogesh
+LOCATION:Parvati Shankar Hall, Nadangadda, Karwar 581304
+DESCRIPTION:Muhurtham at 11:02 a.m. Reception and lunch from 1:00 p.m. onwards.
+END:VEVENT
+END:VCALENDAR
